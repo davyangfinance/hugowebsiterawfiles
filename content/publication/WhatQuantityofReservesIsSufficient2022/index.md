@@ -68,7 +68,9 @@ projects: []
 # slides: example
 slides: ""
 ---
+WFA 2022 Brattle Group Ph.D. Candidate Awards For Outstanding Research
 
+The BlackRock Applied Research Award 2021 (runner-up)
 <!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
